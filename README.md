@@ -1,0 +1,2 @@
+This project is a simple recipe pages showcaing three recipes made by html.
+In this project is built upon some simple html skils like how to display numerous texts, and images. How to add links and how to made some lists.
